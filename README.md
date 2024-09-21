@@ -1,8 +1,11 @@
-# React + Vite
+<h1> To-do application </h1>
+<ul>
+  <li>a complex to-do application made with react and vite</li>
+  <li>Makes heavy use of Redux-ToolKIT for functioning</li>
+  <li>Makes use of in-built and custom hooks  </li>
+  <li>Css styling done with tailwind CSS for responsiveness</li>
+  <li>Uses local storage to keep data(todo's) even when re-rendered or reloaded</li>
+  <li>made with best practices in reactJS</li>
+</ul>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
