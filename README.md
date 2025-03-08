@@ -6,6 +6,7 @@
   <li>Css styling done with tailwind CSS for responsiveness</li>
   <li>Uses local storage to keep data(todo's) even when re-rendered or reloaded</li>
   <li>made with best practices in reactJS</li>
+  
 </ul>
 
 
